@@ -1,3 +1,9 @@
+###############################################################################################
+
+## Coursera Exploratory Data Analysis Final Course Project
+## Christopher Skyi
+## Sunday, August 23, 2015, New York City, [86-74]F, 60% chance of thunderstorms by evening
+
 ###########################################################################
 
 # QUESTION 1: Have total emissions from PM2.5 decreased in the United States from 
